@@ -1,0 +1,55 @@
+C:\Users\Andrea\Desktop\Progetto\corsoing20172018-master\ServiceAPI\ServiceAPI\bin\Debug\netcoreapp2.0\ServiceAPI.deps.json
+C:\Users\Andrea\Desktop\Progetto\corsoing20172018-master\ServiceAPI\ServiceAPI\bin\Debug\netcoreapp2.0\ServiceAPI.runtimeconfig.json
+C:\Users\Andrea\Desktop\Progetto\corsoing20172018-master\ServiceAPI\ServiceAPI\bin\Debug\netcoreapp2.0\ServiceAPI.runtimeconfig.dev.json
+C:\Users\Andrea\Desktop\Progetto\corsoing20172018-master\ServiceAPI\ServiceAPI\bin\Debug\netcoreapp2.0\ServiceAPI.dll
+C:\Users\Andrea\Desktop\Progetto\corsoing20172018-master\ServiceAPI\ServiceAPI\bin\Debug\netcoreapp2.0\ServiceAPI.pdb
+C:\Users\Andrea\Desktop\Progetto\corsoing20172018-master\ServiceAPI\ServiceAPI\obj\Debug\netcoreapp2.0\ServiceAPI.csprojResolveAssemblyReference.cache
+C:\Users\Andrea\Desktop\Progetto\corsoing20172018-master\ServiceAPI\ServiceAPI\obj\Debug\netcoreapp2.0\ServiceAPI.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\Desktop\Progetto\corsoing20172018-master\ServiceAPI\ServiceAPI\obj\Debug\netcoreapp2.0\ServiceAPI.AssemblyInfoInputs.cache
+C:\Users\Andrea\Desktop\Progetto\corsoing20172018-master\ServiceAPI\ServiceAPI\obj\Debug\netcoreapp2.0\ServiceAPI.AssemblyInfo.cs
+C:\Users\Andrea\Desktop\Progetto\corsoing20172018-master\ServiceAPI\ServiceAPI\obj\Debug\netcoreapp2.0\ServiceAPI.dll
+C:\Users\Andrea\Desktop\Progetto\corsoing20172018-master\ServiceAPI\ServiceAPI\obj\Debug\netcoreapp2.0\ServiceAPI.pdb
+F:\Progetto C#\ServiceAPI\ServiceAPI\bin\Debug\netcoreapp2.0\ServiceAPI.deps.json
+F:\Progetto C#\ServiceAPI\ServiceAPI\bin\Debug\netcoreapp2.0\ServiceAPI.runtimeconfig.json
+F:\Progetto C#\ServiceAPI\ServiceAPI\bin\Debug\netcoreapp2.0\ServiceAPI.runtimeconfig.dev.json
+F:\Progetto C#\ServiceAPI\ServiceAPI\bin\Debug\netcoreapp2.0\ServiceAPI.dll
+F:\Progetto C#\ServiceAPI\ServiceAPI\bin\Debug\netcoreapp2.0\ServiceAPI.pdb
+F:\Progetto C#\ServiceAPI\ServiceAPI\obj\Debug\netcoreapp2.0\ServiceAPI.csprojResolveAssemblyReference.cache
+F:\Progetto C#\ServiceAPI\ServiceAPI\obj\Debug\netcoreapp2.0\ServiceAPI.csproj.CoreCompileInputs.cache
+F:\Progetto C#\ServiceAPI\ServiceAPI\obj\Debug\netcoreapp2.0\ServiceAPI.AssemblyInfoInputs.cache
+F:\Progetto C#\ServiceAPI\ServiceAPI\obj\Debug\netcoreapp2.0\ServiceAPI.AssemblyInfo.cs
+F:\Progetto C#\ServiceAPI\ServiceAPI\obj\Debug\netcoreapp2.0\ServiceAPI.dll
+F:\Progetto C#\ServiceAPI\ServiceAPI\obj\Debug\netcoreapp2.0\ServiceAPI.pdb
+C:\Users\user\Desktop\Progetto C#\ServiceAPI\ServiceAPI\bin\Debug\netcoreapp2.0\ServiceAPI.deps.json
+C:\Users\user\Desktop\Progetto C#\ServiceAPI\ServiceAPI\bin\Debug\netcoreapp2.0\ServiceAPI.runtimeconfig.json
+C:\Users\user\Desktop\Progetto C#\ServiceAPI\ServiceAPI\bin\Debug\netcoreapp2.0\ServiceAPI.runtimeconfig.dev.json
+C:\Users\user\Desktop\Progetto C#\ServiceAPI\ServiceAPI\bin\Debug\netcoreapp2.0\ServiceAPI.dll
+C:\Users\user\Desktop\Progetto C#\ServiceAPI\ServiceAPI\bin\Debug\netcoreapp2.0\ServiceAPI.pdb
+C:\Users\user\Desktop\Progetto C#\ServiceAPI\ServiceAPI\obj\Debug\netcoreapp2.0\ServiceAPI.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Progetto C#\ServiceAPI\ServiceAPI\obj\Debug\netcoreapp2.0\ServiceAPI.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Progetto C#\ServiceAPI\ServiceAPI\obj\Debug\netcoreapp2.0\ServiceAPI.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Progetto C#\ServiceAPI\ServiceAPI\obj\Debug\netcoreapp2.0\ServiceAPI.AssemblyInfo.cs
+C:\Users\user\Desktop\Progetto C#\ServiceAPI\ServiceAPI\obj\Debug\netcoreapp2.0\ServiceAPI.dll
+C:\Users\user\Desktop\Progetto C#\ServiceAPI\ServiceAPI\obj\Debug\netcoreapp2.0\ServiceAPI.pdb
+C:\Users\user\Desktop\pongaxponga\Progetto C#\ServiceAPI\ServiceAPI\bin\Debug\netcoreapp2.0\ServiceAPI.deps.json
+C:\Users\user\Desktop\pongaxponga\Progetto C#\ServiceAPI\ServiceAPI\bin\Debug\netcoreapp2.0\ServiceAPI.runtimeconfig.json
+C:\Users\user\Desktop\pongaxponga\Progetto C#\ServiceAPI\ServiceAPI\bin\Debug\netcoreapp2.0\ServiceAPI.runtimeconfig.dev.json
+C:\Users\user\Desktop\pongaxponga\Progetto C#\ServiceAPI\ServiceAPI\bin\Debug\netcoreapp2.0\ServiceAPI.dll
+C:\Users\user\Desktop\pongaxponga\Progetto C#\ServiceAPI\ServiceAPI\bin\Debug\netcoreapp2.0\ServiceAPI.pdb
+C:\Users\user\Desktop\pongaxponga\Progetto C#\ServiceAPI\ServiceAPI\obj\Debug\netcoreapp2.0\ServiceAPI.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\pongaxponga\Progetto C#\ServiceAPI\ServiceAPI\obj\Debug\netcoreapp2.0\ServiceAPI.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\pongaxponga\Progetto C#\ServiceAPI\ServiceAPI\obj\Debug\netcoreapp2.0\ServiceAPI.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\pongaxponga\Progetto C#\ServiceAPI\ServiceAPI\obj\Debug\netcoreapp2.0\ServiceAPI.AssemblyInfo.cs
+C:\Users\user\Desktop\pongaxponga\Progetto C#\ServiceAPI\ServiceAPI\obj\Debug\netcoreapp2.0\ServiceAPI.dll
+C:\Users\user\Desktop\pongaxponga\Progetto C#\ServiceAPI\ServiceAPI\obj\Debug\netcoreapp2.0\ServiceAPI.pdb
+C:\Users\user\Desktop\Nuova cartella\pongaxponga\Progetto C#\ServiceAPI\ServiceAPI\bin\Debug\netcoreapp2.0\ServiceAPI.deps.json
+C:\Users\user\Desktop\Nuova cartella\pongaxponga\Progetto C#\ServiceAPI\ServiceAPI\bin\Debug\netcoreapp2.0\ServiceAPI.runtimeconfig.json
+C:\Users\user\Desktop\Nuova cartella\pongaxponga\Progetto C#\ServiceAPI\ServiceAPI\bin\Debug\netcoreapp2.0\ServiceAPI.runtimeconfig.dev.json
+C:\Users\user\Desktop\Nuova cartella\pongaxponga\Progetto C#\ServiceAPI\ServiceAPI\bin\Debug\netcoreapp2.0\ServiceAPI.dll
+C:\Users\user\Desktop\Nuova cartella\pongaxponga\Progetto C#\ServiceAPI\ServiceAPI\bin\Debug\netcoreapp2.0\ServiceAPI.pdb
+C:\Users\user\Desktop\Nuova cartella\pongaxponga\Progetto C#\ServiceAPI\ServiceAPI\obj\Debug\netcoreapp2.0\ServiceAPI.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Nuova cartella\pongaxponga\Progetto C#\ServiceAPI\ServiceAPI\obj\Debug\netcoreapp2.0\ServiceAPI.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Nuova cartella\pongaxponga\Progetto C#\ServiceAPI\ServiceAPI\obj\Debug\netcoreapp2.0\ServiceAPI.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Nuova cartella\pongaxponga\Progetto C#\ServiceAPI\ServiceAPI\obj\Debug\netcoreapp2.0\ServiceAPI.AssemblyInfo.cs
+C:\Users\user\Desktop\Nuova cartella\pongaxponga\Progetto C#\ServiceAPI\ServiceAPI\obj\Debug\netcoreapp2.0\ServiceAPI.dll
+C:\Users\user\Desktop\Nuova cartella\pongaxponga\Progetto C#\ServiceAPI\ServiceAPI\obj\Debug\netcoreapp2.0\ServiceAPI.pdb

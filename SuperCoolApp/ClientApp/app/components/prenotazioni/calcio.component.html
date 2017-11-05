@@ -1,0 +1,22 @@
+<h1>Lista prenotazioni campo di calcio</h1>
+
+<p *ngIf="!calcio"><em>Caricamento...</em></p>
+
+<table class='table' *ngIf="prenotazioni">
+    <thead>
+        <tr>
+
+            <th>Email</th>
+            <th>Ora</th>
+            <th>Data</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        
+		<tr *ngFor="let prenotazione of prenotazioni">
+		<h2 *ngIf="prenotazione.campo == calcio"> ({{prenotazione.email}})({{prenotazione.time}}) ({{prenotazione.date}})</h2>
+            
+        </tr>
+    </tbody>
+</table>

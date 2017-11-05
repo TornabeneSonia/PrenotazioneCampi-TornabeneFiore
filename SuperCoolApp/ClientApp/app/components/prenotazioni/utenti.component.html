@@ -1,0 +1,29 @@
+<h1>Lista Utenti<button (click)="addNewUtente()"> + </button></h1>
+<p *ngIf="!utenti"><em>Caricamento...</em></p>
+<div class="utente-home">
+    
+    <div *ngIf="selectedUtente" class="utente-detail">
+       
+        <h2 *ngIf="!selectedUtente.id">Nuovo Utente</h2>
+
+        <div>
+            <label>User Email: </label>
+            <input [(ngModel)]="selectedUtente.email" placeholder="email" />
+        </div>
+        <div>
+            <label>Name: </label>
+            <input [(ngModel)]="selectedUtente.name" placeholder="name" />
+        </div>
+        <div>
+            <label>Surname: </label>
+            <input [(ngModel)]="selectedUtente.surname" placeholder="surname" />
+        </div>
+		<div>
+            <label>Password: </label>
+            <input [(ngModel)]="selectedUtente.password" placeholder="password" />
+        </div>
+    </div>
+</div>
+<div id="floating-button" data-toggle="tooltip" data-placement="left" data-original-title="Create" (click)="saveChanges()">
+    <span>SAVE</span>
+</div>

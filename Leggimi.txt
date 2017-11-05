@@ -1,0 +1,6 @@
+Progetto realizzato da Sonia Tornabene(Angular) e Luigi Fiore(REST) Database: Mysql
+Avvio: 
+Avviare Xampp, Server Mysql e Server Apache
+Avviare ServiceApi e SuperCoolApp (Abbiamo unito i due progetti, dovrebbero partire insieme) 
+Abbiamo Gestito la parte della prenotazione dei campi ( Calcio, basket, tennis) e abbiamo aggiunto la possibilità di registrarsi al sistema.
+Mancano i vari controlli, per mancanza di tempo.

@@ -1,0 +1,45 @@
+<h1>Lista prenotazioni <button (click)="addNewPrenotazione()"> + </button></h1>
+<p *ngIf="!prenotazioni"><em>Caricamento...</em></p>
+<div class="prenotazione-home">
+
+
+
+    <div class="prenotazioni-list" *ngIf="prenotazioni">
+        <div *ngFor="let pren of prenotazioni"
+             [class.selected]="pren === selectedPrenotazione"
+             (click)="onSelect(pren)"
+             [hidden]="pren.deleted">
+            <span class="badge">{{pren.id || '-' }}</span> {{pren.email}} {{pren.campo}} {{pren.date}} {{pren.time}} <span>{{pren.hasChanges?'*':''}}</span><span class="badge" style="float: right;" (click)="delete(pren)">delete</span>
+        </div>
+    </div>
+    <div *ngIf="selectedPrenotazione" class="prenotazione-detail">
+        <h2 *ngIf="selectedPrenotazione.id > 0">  {{selectedPrenotazione.campo}} ({{selectedPrenotazione.email}})({{selectedPrenotazione.time}}) ({{selectedPrenotazione.date}})</h2>
+        <h2 *ngIf="!selectedPrenotazione.id">Nuova Prenotazione</h2>
+
+        <div>
+            <label>Email: </label>
+            <input [(ngModel)]="selectedPrenotazione.email" placeholder="email" />
+        </div>
+        <div>
+            <label>Ora: </label>
+            <input [(ngModel)]="selectedPrenotazione.time" placeholder="time" />
+        </div>
+        <div>
+            <label>Data: </label>
+            <input [(ngModel)]="selectedPrenotazione.date" placeholder="date" />
+        </div>
+		 <div>
+            <label>Campo:    (Calcio, Basket, Tennis)</label>
+            <input [(ngModel)]="selectedPrenotazione.campo" placeholder="campo" />
+        </div>
+
+    </div>
+</div>
+
+<button (click)="vediCalcio()">Calcio</button>
+<button (click)="vediCalcio()">Basket</button>
+<button (click)="vediCalcio()">Tennis</button>
+
+<div id="floating-button" data-toggle="tooltip" data-placement="left" data-original-title="Create" (click)="saveChanges()">
+    <span>SAVE</span>
+</div>
